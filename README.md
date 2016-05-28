@@ -1,0 +1,2 @@
+# QtCalculator
+A simple calculator
